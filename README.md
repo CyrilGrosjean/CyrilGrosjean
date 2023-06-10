@@ -6,4 +6,5 @@ My name is Cyril Grosjean, I'm 21 years old and I'm an Epitech student. :compute
 
 ### Contact
 
-:email: cyril.grosjean@epitech.eu
+:email: cyril.grosjean@epitech.eu  
+(Gitlab > Github)
